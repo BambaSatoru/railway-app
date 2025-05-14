@@ -13,10 +13,10 @@ Le déploiement est automatisé via GitHub Actions, qui installe les dépendance
 - Déploiement continu avec GitHub Actions.
 
 ## Captures d'écran
-- Tableau de bord Railway : [À remplir]
-- Workflow GitHub Actions : [À remplir]
-- Route `/` : [À remplir]
-- Route `/db` : [À remplir]
+- Tableau de bord Railway 
+- Workflow GitHub Actions 
+- Route `/` 
+- Route `/db`
 
 ## Instructions de déploiement
 1. Cloner le dépôt.
