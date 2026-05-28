@@ -10,7 +10,7 @@ If you discover a security vulnerability, please do not open a public issue. Ins
 
 ### Steps to Report:
 
-1. **Do not** publicly disclose the vulnerability
+1. Do not publicly disclose the vulnerability
 2. Contact the maintainers with:
    - Description of the vulnerability
    - Steps to reproduce the issue
@@ -41,7 +41,7 @@ When deploying this application:
 - Keep PostgreSQL updated
 
 ### Application Security
-- Keep dependencies updated: `npm audit` and `npm update`
+- Keep dependencies updated: run `npm audit` and `npm update`
 - Review security advisories regularly
 - Use HTTPS in production (Railway handles this automatically)
 - Implement rate limiting for production

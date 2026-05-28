@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the Railway App project! We welco
 
 ## Code of Conduct
 
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to help maintain a respectful and inclusive community.
+Please read and follow our Code of Conduct to help maintain a respectful and inclusive community.
 
 ## Getting Started
 
@@ -83,7 +83,7 @@ We follow conventional commits:
    ```bash
    git push origin feature/your-feature-name
    ```
-2. Go to the [original repository](https://github.com/BambaSatoru/railway-app)
+2. Go to the original repository at https://github.com/BambaSatoru/railway-app
 3. Click "New Pull Request"
 4. Select your fork and branch
 5. Fill in the PR title and description:
@@ -149,12 +149,12 @@ When contributing:
 
 ## Additional Resources
 
-- [Railway Documentation](https://docs.railway.app)
-- [Express.js Documentation](https://expressjs.com)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs)
+- Railway Documentation: https://docs.railway.app
+- Express.js Documentation: https://expressjs.com
+- PostgreSQL Documentation: https://www.postgresql.org/docs
 
 ## Questions?
 
 Feel free to open an issue or discussion if you have questions about the contribution process.
 
-Thank you for contributing! 🚀
+Thank you for contributing!
